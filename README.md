@@ -2,7 +2,7 @@
 ![image](https://github.com/Ali-Hasan-Khan28/The-PDF-Mania/assets/101451471/020ff314-2ef2-42a0-aea6-ebe24712fa27)
 This web application is built using Flask, a Python web framework, to facilitate document conversion tasks. Users can convert various types of documents to PDF format and perform other document-related operations. The application includes the following features:
 
-1. Image to PDF Conversion
+## 1. Image to PDF Conversion
 Route: /index1
 Description: Converts an image file (e.g., JPEG, PNG) to a PDF file.
 Usage:
